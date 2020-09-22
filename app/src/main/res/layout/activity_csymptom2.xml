@@ -22,11 +22,11 @@
     <TextView
         android:layout_width="384dp"
         android:layout_height="103dp"
-        android:layout_marginTop="10dp"
-        android:layout_marginBottom="100dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginBottom="50dp"
         android:gravity="center|fill"
         android:text="Search your symptoms : "
-        android:textColor="#FFF"
+        android:textColor="#FFFF"
         android:textSize="35dp"
         android:textStyle="bold" />
 
@@ -83,13 +83,13 @@
         android:layout_width="match_parent"
         android:layout_height="192dp"
         android:layout_marginLeft="20dp"
-        android:layout_marginTop="39dp"
+        android:layout_marginTop="69dp"
         android:layout_marginRight="20dp"
-        android:layout_marginBottom="15dp"
-        android:paddingBottom="25dp"
+        android:layout_marginBottom="20dp"
         android:background="@drawable/plus2"
         android:gravity="center"
         android:padding="10dp"
+        android:paddingBottom="25dp"
         android:text="DONE"
         android:textColor="#FFFF"
         android:textSize="22sp" />
